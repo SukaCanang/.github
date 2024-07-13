@@ -1,5 +1,7 @@
 # SukaCanang
 
+![Team Photo](Team Pictures.jpeg)
+
 ## About Us
 Welcome to the SukaCanang team! We are a team participating in Mini Challenge 3 at the Apple Developer Academy @ UC. Our mission is to help urban, young Bali Hindus understand the various types of Banten and how to prepare them. Banten are traditional Balinese offerings, and our project aims to preserve and promote this cultural heritage through modern technology.
 
