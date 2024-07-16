@@ -22,6 +22,10 @@ The primary objective of SukaCanang is Helping Urban, Young Bali Hindus to know
     <td>Feline</td>
     <td>Learner</td>
   </tr>
+   <tr>
+    <td>Elyora</td>
+    <td>Learner</td>
+  </tr>
   <tr>
     <td>Marcell</td>
     <td>Learner</td>
@@ -34,8 +38,5 @@ The primary objective of SukaCanang is Helping Urban, Young Bali Hindus to know
     <td>Kenji</td>
     <td>Learner</td>
   </tr>
-  <tr>
-    <td>Elyora</td>
-    <td>Learner</td>
-  </tr>
+ 
 </table>
